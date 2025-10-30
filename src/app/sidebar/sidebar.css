@@ -1,0 +1,26 @@
+.sidenav-container {
+  height: 90vh;
+  color: white;
+}
+.mat-sidenav-content {
+  padding: 10px;
+  padding-left: 20px;
+}
+
+.mat-sidenav{
+  width: min-content;
+  border-radius: 5%;
+  border-color: white;
+}
+
+.mat-nav-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.a {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  padding: 15px;
+  float: left;
+}
